@@ -22,7 +22,7 @@ export default function App() {
 }
 
 function Logo() {
-  return <h1>🏝️ Pack list 👜</h1>
+  return <h1>🏝️ PACKING LIST 👜</h1>
 }
 
 function Form({ onAddItems }) {
